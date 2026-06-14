@@ -40,7 +40,6 @@ This project analyzes over 32,000 job postings from the data industry using Powe
 ## Files
 
 * Power BI dashboard (.pbix)
-* Dataset
 * Dashboard screenshots
 
 ## Dashboard Preview
