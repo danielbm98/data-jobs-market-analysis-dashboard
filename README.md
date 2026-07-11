@@ -180,8 +180,13 @@ This dashboard transforms raw job posting data into actionable labor market insi
 
 ---
 
-# 👤 Author
+# Author
 
 **Daniel Betancourt**
 
+Electronic Engineer | Data Analyst
+
 If you found this project interesting, feel free to connect with me on LinkedIn or explore my other data analytics projects on GitHub.
+
+- **GitHub:** https://github.com/danielbm98
+- **LinkedIn:** https://www.linkedin.com/in/danielbetancourtmontoya/
